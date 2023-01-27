@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+/*.pt
+data/
+app/
+/*.exe
+/*.npy
+/*.csv
+/*.jpg
+/*.jpeg
