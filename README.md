@@ -45,5 +45,6 @@ MZ세대는 전문가를 찾아가 자신만의 퍼스널컬러를 진단하고,
 ## Demo
 추천시스템을 구축한 후 streamlit 플랫폼을 사용해 데모 웹페이지를 제작하였다. [추천시스템 데모 웹페이지](https://soheejeong-influencer-recommendation-app-streamlit-vf57l8.streamlit.app/)
 
-
+<img src="https://user-images.githubusercontent.com/44287798/215046297-bc7a2e76-cf9a-412b-af6d-31805d9c5861.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/44287798/215046307-1e72ae50-5c1c-48e2-9e64-10937121fb8f.jpg" width="200">
 
