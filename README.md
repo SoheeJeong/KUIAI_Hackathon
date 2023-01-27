@@ -1,4 +1,4 @@
-# 제3회 KUIAI Hackathon
+# KUIAI Hackathon
 > 주제: Fashion Influencer Recommendation
 
 ## 프로젝트 배경
